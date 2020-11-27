@@ -5,7 +5,7 @@ class PizzeriaFactory [[java:main.java.Fabrique.PizzeriaFactory]] {
 	+{static}PizzeriaFactory getInstance()
 	+Pizzeria creer(String type)
 }
-class Main [[java:main.java.Main.Main]] {
+class PizzaTestDrive [[java:main.java.Main.Main]] {
 	+{static}void main(String[] args)
 }
 class PizzaFromageStyleStrasbourg [[java:main.java.Pizza.PizzaFromageStyleStrasbourg]] {

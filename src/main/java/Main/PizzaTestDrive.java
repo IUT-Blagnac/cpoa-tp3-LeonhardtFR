@@ -4,7 +4,7 @@ import main.java.Fabrique.PizzeriaFactory;
 import main.java.Pizza.Pizza;
 import main.java.Pizza.Pizzeria;
 
-public class Main {
+public class PizzaTestDrive {
 
 	public static void main(String[] args) {
 		
